@@ -1,0 +1,16 @@
+ol h5{
+    background-color: lightgreen;
+    padding:15px;
+    border-radius:20px;
+}
+li img{
+    border-radius: 20px;
+    }
+    .result{
+        text-align: center;
+        color:darkblue;
+    }
+    span{
+        color:darkgoldenrod;
+        font-size: 30px;
+}
